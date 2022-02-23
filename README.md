@@ -10,10 +10,10 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 
 ## My GitHub Stat 📈
 <a href="https://github.com/Penzragon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Penzragon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Penzragon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&line_height=27&theme=github_dark" />
 </a>
 <a href="https://github.com/Penzragon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penzragon&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penzragon&langs_count=3&theme=github_dark" />
 </a>
 
 <!---
