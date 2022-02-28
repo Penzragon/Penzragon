@@ -4,8 +4,8 @@
 
 My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fascinated by how data can tell us something about the world that we didn't know before.
 
-- 👀 I’m interested in Machine Learning🔬.
-- 🌱 I’m currently learning Data Science🤖.
+- 👀 I’m interested in Machine Learning🤖.
+- 🌱 I’m currently learning Data Science🔬.
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/rifkyaliffa/)
 
 ## My GitHub Stat 📈
