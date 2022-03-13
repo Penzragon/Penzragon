@@ -10,7 +10,7 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 
 ## Technologies & Tools 🛠
 
-<p align="center">
+<span align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -29,7 +29,7 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-</p>
+</span>
 
 ## My GitHub Stat 📈
 <a href="https://github.com/Penzragon">
