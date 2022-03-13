@@ -6,6 +6,7 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 
 - 👀 I’m interested in Machine Learning🤖.
 - 🌱 I’m currently learning Data Science🔬.
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifkyaliffa/)
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/rifkyaliffa/)
 
 ## Technologies & Tools 🛠
