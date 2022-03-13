@@ -9,6 +9,7 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/rifkyaliffa/)
 
 ## Technologies & Tools 🛠
+
 <p align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
