@@ -8,6 +8,13 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 - 🌱 I’m currently learning Data Science🔬.
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/rifkyaliffa/)
 
+## Technologies & Tools 🛠
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 ## My GitHub Stat 📈
 <a href="https://github.com/Penzragon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Penzragon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&line_height=27&theme=github_dark" />
