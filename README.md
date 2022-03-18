@@ -1,5 +1,4 @@
 ![HeaderIMG](https://pbs.twimg.com/profile_banners/403266677/1594057840/1500x500)
-![](https://komarev.com/ghpvc/?username=Penzragon&style=for-the-badge)
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -37,6 +36,8 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 <a href="https://github.com/Penzragon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penzragon&langs_count=3&theme=github_dark&hide_border=true" />
 </a>
+![](https://komarev.com/ghpvc/?username=Penzragon&style=for-the-badge)
+
 
 <!---
 Penzragon/Penzragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
