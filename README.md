@@ -1,6 +1,6 @@
 ![HeaderIMG](https://pbs.twimg.com/profile_banners/403266677/1594057840/1500x500)
 
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=Penzragon&style=for-the-badge" width="30px">
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=Penzragon&style=for-the-badge">
 
 My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fascinated by how data can tell us something about the world that we didn't know before.
 
