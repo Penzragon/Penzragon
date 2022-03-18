@@ -36,6 +36,9 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 <a href="https://github.com/Penzragon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penzragon&langs_count=3&theme=github_dark&hide_border=true" />
 </a>
+<a href="https://github.com/Penzragon">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Penzragon&style=for-the-badge" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=Penzragon&style=for-the-badge)
 
