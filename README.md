@@ -35,7 +35,7 @@ My name is **Rifky Aliffa** and I'm a passionate young data scientist who is fas
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## My GitHub Stat 📈
+## PΞNZRΛGON Stat 📈
 <a href="https://github.com/Penzragon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Penzragon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&line_height=27&theme=github_dark" />
 </a>
