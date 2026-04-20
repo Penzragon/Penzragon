@@ -3,7 +3,7 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 
-My name is **Rifky Aliffa** a.k.a PΞNZRΛGON 🐺. I'm a passionate young data scientist who is fascinated by how data can tell us something about the world that we didn't know before.
+My name is **Rifky Aliffa** a.k.a Penzragon🐺. I'm a passionate young data scientist who is fascinated by how data can tell us something about the world that we didn't know before.
 
 - 👀 I’m interested in Machine Learning and Computer Vision🤖.
 - 🌱 I’m currently working as a Machine Learning Engineer👷.
