@@ -18,7 +18,6 @@
 
 - **Data engineering** — working with data and building useful pipelines.
 - **Vibe coding & web development** — turning ideas into things for the web.
-- **Machine learning & computer vision** — keeping curiosity close.
 
 Most of my projects live in private repositories. The experimenting continues behind the scenes.
 
@@ -26,9 +25,9 @@ Most of my projects live in private repositories. The experimenting continues be
 
 ## 🛠 Skills & tools
 
-**Data, databases & machine learning**
+**Data & databases**
 
-![Python](https://img.shields.io/badge/Python-263453?style=flat-square&logo=python&logoColor=c5ddff) ![pandas](https://img.shields.io/badge/pandas-263453?style=flat-square&logo=pandas&logoColor=c5ddff) ![NumPy](https://img.shields.io/badge/NumPy-263453?style=flat-square&logo=numpy&logoColor=c5ddff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-263453?style=flat-square&logo=postgresql&logoColor=c5ddff) ![MySQL](https://img.shields.io/badge/MySQL-263453?style=flat-square&logo=mysql&logoColor=c5ddff) ![Jupyter](https://img.shields.io/badge/Jupyter-263453?style=flat-square&logo=jupyter&logoColor=c5ddff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-263453?style=flat-square&logo=scikitlearn&logoColor=c5ddff) ![Keras](https://img.shields.io/badge/Keras-263453?style=flat-square&logo=keras&logoColor=c5ddff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-263453?style=flat-square&logo=tensorflow&logoColor=c5ddff) ![OpenCV](https://img.shields.io/badge/OpenCV-263453?style=flat-square&logo=opencv&logoColor=c5ddff) ![Plotly](https://img.shields.io/badge/Plotly-263453?style=flat-square&logo=plotly&logoColor=c5ddff) ![Tableau](https://img.shields.io/badge/Tableau-263453?style=flat-square&logoColor=c5ddff)
+![Python](https://img.shields.io/badge/Python-263453?style=flat-square&logo=python&logoColor=c5ddff) ![pandas](https://img.shields.io/badge/pandas-263453?style=flat-square&logo=pandas&logoColor=c5ddff) ![NumPy](https://img.shields.io/badge/NumPy-263453?style=flat-square&logo=numpy&logoColor=c5ddff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-263453?style=flat-square&logo=postgresql&logoColor=c5ddff) ![MySQL](https://img.shields.io/badge/MySQL-263453?style=flat-square&logo=mysql&logoColor=c5ddff) ![Jupyter](https://img.shields.io/badge/Jupyter-263453?style=flat-square&logo=jupyter&logoColor=c5ddff) ![Plotly](https://img.shields.io/badge/Plotly-263453?style=flat-square&logo=plotly&logoColor=c5ddff) ![Tableau](https://img.shields.io/badge/Tableau-263453?style=flat-square&logoColor=c5ddff)
 
 **For the web**
 
