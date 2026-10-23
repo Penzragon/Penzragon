@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="64" viewBox="0 0 1120 64" role="img" aria-label="Twinkling pixel stars above a quiet mountain skyline">
+<style>.star{animation:shine 4s ease-in-out infinite alternate}.later{animation-delay:-2s}@keyframes shine{from{opacity:.25}to{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path d="M0 33h420m280 0h420" stroke="#6268a2" opacity=".45"/>
+<path d="M440 49h20v-8h9v-8h10v-8h10v-9h9v9h10v8h10v8h11v8h19v6H440zm108 0h17v-8h10v-8h10v8h10v8h19v6h-66zm60 0h12v-9h10v-8h10V20h9v12h10v8h10v9h16v6h-77z" fill="#333d75"/>
+<path d="M479 25h10v-9h9v9h10v8h-9v-5h-10v5h-10zm151 7h10V20h9v12h10v8h-9v-4h-11v4h-9z" fill="#a5a8df"/>
+<g class="star" fill="#dce8ff"><path d="M547 10h3v6h6v3h-6v6h-3v-6h-6v-3h6zM408 29h3v8h-3zM405 32h9v3h-9z"/></g><g class="star later" fill="#b9eee9"><path d="M596 3h3v5h5v3h-5v5h-3v-5h-5V8h5zM710 29h3v8h-3zM707 32h9v3h-9z"/></g>
+</svg>

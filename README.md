@@ -1,49 +1,49 @@
-![HeaderIMG](https://pbs.twimg.com/profile_banners/403266677/1594057840/1500x500)
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Penzragon / Rifky Aliffa — a cozy pixel-art coding observatory with a white wolf, blue eyes, and a sky full of moving stars." />
+</p>
 
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<h1 align="center">Penzragon / Rifky Aliffa</h1>
+<p align="center"><strong>Data Engineer · Vibe Coder · Web Developer</strong></p>
 
+<p align="center">I work with data, build for the web, and follow ideas wherever they take me.</p>
+<p align="center">A little space for the things I'm learning, building, and exploring. 🐺</p>
 
-My name is **Rifky Aliffa** a.k.a Penzragon🐺. I'm a passionate young data scientist who is fascinated by how data can tell us something about the world that we didn't know before.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rifkyaliffa/"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-9b8ee7?style=flat-square" alt="Connect with Rifky on LinkedIn" /></a>
+</p>
 
-- 👀 I’m interested in Machine Learning and Computer Vision🤖.
-- 🌱 I’m currently working as a Machine Learning Engineer👷.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/rifkyaliffa/).
+<img src="./assets/divider.svg" width="100%" alt="Twinkling pixel stars over a quiet mountain skyline." />
 
-## Technologies & Tools 🛠
+## 🌙 Currently exploring
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- **Data engineering** — working with data and building useful pipelines.
+- **Vibe coding & web development** — turning ideas into things for the web.
+- **Machine learning & computer vision** — keeping curiosity close.
 
-## My GitHub Stat 📈
-<a href="https://github.com/Penzragon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Penzragon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&line_height=27&theme=github_dark" />
+Most of my projects live in private repositories. The experimenting continues behind the scenes.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🛠 Skills & tools
+
+**Data, databases & machine learning**
+
+![Python](https://img.shields.io/badge/Python-263453?style=flat-square&logo=python&logoColor=c5ddff) ![pandas](https://img.shields.io/badge/pandas-263453?style=flat-square&logo=pandas&logoColor=c5ddff) ![NumPy](https://img.shields.io/badge/NumPy-263453?style=flat-square&logo=numpy&logoColor=c5ddff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-263453?style=flat-square&logo=postgresql&logoColor=c5ddff) ![MySQL](https://img.shields.io/badge/MySQL-263453?style=flat-square&logo=mysql&logoColor=c5ddff) ![Jupyter](https://img.shields.io/badge/Jupyter-263453?style=flat-square&logo=jupyter&logoColor=c5ddff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-263453?style=flat-square&logo=scikitlearn&logoColor=c5ddff) ![Keras](https://img.shields.io/badge/Keras-263453?style=flat-square&logo=keras&logoColor=c5ddff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-263453?style=flat-square&logo=tensorflow&logoColor=c5ddff) ![OpenCV](https://img.shields.io/badge/OpenCV-263453?style=flat-square&logo=opencv&logoColor=c5ddff) ![Plotly](https://img.shields.io/badge/Plotly-263453?style=flat-square&logo=plotly&logoColor=c5ddff) ![Tableau](https://img.shields.io/badge/Tableau-263453?style=flat-square&logoColor=c5ddff)
+
+**For the web**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-39345f?style=flat-square&logo=javascript&logoColor=e0d4ff) ![HTML5](https://img.shields.io/badge/HTML5-39345f?style=flat-square&logo=html5&logoColor=e0d4ff) ![CSS3](https://img.shields.io/badge/CSS3-39345f?style=flat-square&logo=css&logoColor=e0d4ff)
+
+**Build, ship & everyday tools**
+
+![Git](https://img.shields.io/badge/Git-233e48?style=flat-square&logo=git&logoColor=b9eee9) ![GitHub](https://img.shields.io/badge/GitHub-233e48?style=flat-square&logo=github&logoColor=b9eee9) ![Docker](https://img.shields.io/badge/Docker-233e48?style=flat-square&logo=docker&logoColor=b9eee9) ![AWS](https://img.shields.io/badge/AWS-233e48?style=flat-square&logoColor=b9eee9) ![Heroku](https://img.shields.io/badge/Heroku-233e48?style=flat-square&logo=heroku&logoColor=b9eee9) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-233e48?style=flat-square&logoColor=b9eee9) ![Windows](https://img.shields.io/badge/Windows-233e48?style=flat-square&logoColor=b9eee9) ![Ubuntu](https://img.shields.io/badge/Ubuntu-233e48?style=flat-square&logo=ubuntu&logoColor=b9eee9)
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ✨ Contribution trail
+
+<a href="https://github.com/Penzragon?tab=overview">
+  <img src="./assets/contributions.svg" width="100%" alt="Penzragon's contribution calendar for the past year, refreshed daily from GitHub, with a moving pixel paw along the trail." />
 </a>
-<a href="https://github.com/Penzragon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penzragon&langs_count=3&theme=github_dark&hide_border=true" />
-</a>
 
-<!---
-Penzragon/Penzragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><sub>Little steps, late nights, and a white wolf for company.</sub></p>
