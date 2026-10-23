@@ -2,7 +2,8 @@
   <img src="./assets/hero.svg" width="100%" alt="Penzragon / Rifky Aliffa — a cozy pixel-art coding observatory with a white wolf, blue eyes, and a sky full of moving stars." />
 </p>
 
-<h1 align="center">Penzragon / Rifky Aliffa</h1>
+<h1 align="center">Penzragon</h1>
+<p align="center"><sub>Rifky Aliffa</sub></p>
 <p align="center"><strong>Data Engineer · Vibe Coder · Web Developer</strong></p>
 
 <p align="center">I work with data, build for the web, and follow ideas wherever they take me.</p>
