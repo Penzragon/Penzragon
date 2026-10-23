@@ -126,8 +126,8 @@ async function update() {
   }
   if (result.errors?.length) throw new Error('GitHub could not return the contribution calendar');
   const svg = renderCalendar(result.data?.user?.contributionsCollection?.contributionCalendar);
-  const target = new URL('../assets/contributions.svg', import.meta.url);
-  const temporary = new URL('../assets/contributions.svg.tmp', import.meta.url);
+  const target = new URL('../assets/contribution-city.svg', import.meta.url);
+  const temporary = new URL('../assets/contribution-city.svg.tmp', import.meta.url);
   await mkdir(new URL('../assets/', import.meta.url), { recursive: true });
   await writeFile(temporary, svg);
   await rename(temporary, target);

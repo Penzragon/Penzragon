@@ -63,7 +63,7 @@
 <h2 align="center">🌃 Contribution city</h2>
 
 <p align="center">
-  <a href="https://github.com/Penzragon?tab=overview"><img src="./assets/contributions.svg" width="100%" alt="My contribution city: one waterfront building per week of GitHub activity, with heights based on contributions, glowing windows for active weekdays, moving cars, and a wandering white wolf. Refreshed daily." /></a>
+  <a href="https://github.com/Penzragon?tab=overview"><img src="./assets/contribution-city.svg" width="100%" alt="My contribution city: one waterfront building per week of GitHub activity, with heights based on contributions, glowing windows for active weekdays, moving cars, and a wandering white wolf. Refreshed daily." /></a>
 </p>
 <p align="center"><sub>Each building is a week. Taller buildings mean more contributions; glowing windows reflect active days.</sub></p>
 <p align="center"><sub>Little steps, late nights, and a white wolf for company.</sub></p>
