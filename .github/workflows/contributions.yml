@@ -8,6 +8,7 @@ on:
     paths:
       - scripts/update-contributions.mjs
       - scripts/update-contributions.test.mjs
+      - assets/skyline-background.png
       - .github/workflows/contributions.yml
 
 permissions:
