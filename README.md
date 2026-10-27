@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Penzragon</h1>
-<p align="center"><strong>Data Engineer · Vibe Coder · Web Developer</strong></p>
+<p align="center"><strong>Data Engineer · Vibe Coder</strong></p>
 
 <p align="center">I work with data, build for the web, and follow ideas wherever they take me.</p>
 <p align="center">A little space for the things I'm learning, building, and exploring. 🐺</p>
@@ -17,7 +17,7 @@
 <h2 align="center">🌙 Currently exploring</h2>
 
 <p align="center"><strong>Data engineering</strong><br />Working with data and building useful pipelines.</p>
-<p align="center"><strong>Vibe coding &amp; web development</strong><br />Turning ideas into things for the web.</p>
+<p align="center"><strong>Vibe coding</strong><br />Turning ideas into things for the web.</p>
 <p align="center">Most of my projects live in private repositories. The experimenting continues behind the scenes.</p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -37,13 +37,6 @@
   <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-263453?style=flat-square&amp;logo=clickhouse&amp;logoColor=c5ddff" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-263453?style=flat-square&amp;logo=mongodb&amp;logoColor=c5ddff" />
   <img alt="AWS DMS" src="./assets/badges/aws-dms.svg" />
-</p>
-
-<p align="center"><strong>For the web</strong></p>
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-39345f?style=flat-square&amp;logo=javascript&amp;logoColor=e0d4ff" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-39345f?style=flat-square&amp;logo=html5&amp;logoColor=e0d4ff" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-39345f?style=flat-square&amp;logo=css&amp;logoColor=e0d4ff" />
 </p>
 
 <p align="center"><strong>Cloud &amp; everyday tools</strong></p>
