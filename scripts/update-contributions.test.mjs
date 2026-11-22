@@ -50,11 +50,14 @@ test('malformed API results are rejected before the saved city is replaced', () 
   const day = valid.weeks[0].contributionDays[1];
   for (const bad of [
     undefined,
-    { ...valid, totalContributions: 4 },
     { ...valid, weeks: [] },
     { ...valid, weeks: [{ contributionDays: [day, day] }] },
     ...[{ contributionCount: -1 }, { weekday: 7 }, { weekday: 4 }, { date: '<script>' }, { date: '2026-02-30' }, { contributionLevel: 'unknown' }]
       .map((change) => ({ totalContributions: 1, weeks: [{ contributionDays: [{ ...day, ...change }] }] })),
     { ...valid, weeks: [{ contributionDays: [...valid.weeks[0].contributionDays].reverse() }] },
   ]) assert.throws(() => renderCalendar(bad));
+});
+
+test('a total that differs slightly from its days still renders', () => {
+  assert.doesNotThrow(() => renderCalendar({ ...calendar([[0, 1, 2, 0, 0, 0, 0]]), totalContributions: 4 }));
 });

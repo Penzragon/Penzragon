@@ -31,7 +31,9 @@ export function renderCalendar(calendar) {
   });
   const days = calendar.weeks.flatMap((week) => week.contributionDays);
   assert(days.length <= 378, 'Invalid contribution days');
-  assert.equal(weeks.reduce((sum, week) => sum + week.total, 0), calendar.totalContributions, 'Calendar total does not match its days');
+  const dayTotal = weeks.reduce((sum, week) => sum + week.total, 0);
+  // GitHub's total and its day counts briefly disagree around UTC midnight; warn instead of skipping the refresh.
+  if (dayTotal !== calendar.totalContributions) console.warn(`Calendar total ${calendar.totalContributions} differs from its days (${dayTotal})`);
   assert(days.every((day, index) => index === 0 || day.date > days[index - 1].date), 'Calendar dates must be chronological');
 
   const max = Math.max(1, ...weeks.map((week) => week.total));
